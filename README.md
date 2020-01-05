@@ -4,4 +4,5 @@
 ### ・深層学習：後編１
 ### ・深層学習：後編２
 ## 修了課題コード-Jupyter Notebook
-### xxx.ipynb
+### HW_Crawler.ipynb
+### crawl_2020-01-03_Crawler.csv
